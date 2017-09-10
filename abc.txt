@@ -6,3 +6,5 @@ tran
 thi
 thuy
 duong
+
+đi choi
